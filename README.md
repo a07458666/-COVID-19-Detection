@@ -1,2 +1,2 @@
-# -COVID-19-Detection
+# COVID-19-Detection
 SIIM-FISABIO-RSNA COVID-19 Detection
